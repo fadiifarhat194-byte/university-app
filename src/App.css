@@ -16,19 +16,14 @@
     outline-offset: 2px;
   }
 }
-.myimg{
-  
-  border-radius: 50%;
-  border: 1px solid #ddd;
-  padding: 5px;
-  width: 150px;
-  height: 150px;
-}
-.soustitre{
-  color: rgb(0, 0, 0);
-  font-weight: bold;
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+
 
 }
+
 .hero {
   position: relative;
 
